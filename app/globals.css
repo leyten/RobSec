@@ -137,3 +137,9 @@
     display: none; /* Chrome, Safari, Opera */
   }
 }
+
+html,
+body {
+  background-color: #000;
+  overscroll-behavior: none;
+}
